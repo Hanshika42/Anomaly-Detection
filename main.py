@@ -9,7 +9,7 @@ CPU_THRESHOLD = 90
 LOGIN_FAILURE_THRESHOLD = 3
 
 window = tk.Tk()
-window.title("🛡️ Cyber Anomaly Detection Tool")
+window.title("Cyber Anomaly Detection Tool")
 window.geometry("600x400")
 window.configure(bg="#1e1e1e")
 window.resizable(False, False)
