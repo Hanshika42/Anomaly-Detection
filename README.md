@@ -10,9 +10,9 @@ A simple GUI-based Python tool to detect CPU usage spikes and suspicious login b
 - Reset and exit buttons with animations
 
 ## How It Works
-1.Load a CPU or Login CSV file using the GUI
-2.The tool scans for abnormal patterns
-3.Results are shown visually and saved to output files
+1. Load a CPU or Login CSV file using the GUI 
+2. The tool scans for abnormal patterns
+3. Results are shown visually and saved to output files
 
 ## Built With
 - Python 3
