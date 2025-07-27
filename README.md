@@ -1,4 +1,4 @@
-#Cybersecurity Anomaly Detection Tool
+# Cybersecurity Anomaly Detection Tool
 A simple GUI-based Python tool to detect CPU usage spikes and suspicious login behavior from CSV log data.
 
 ## Features
@@ -14,20 +14,21 @@ A simple GUI-based Python tool to detect CPU usage spikes and suspicious login b
 2.The tool scans for abnormal patterns
 3.Results are shown visually and saved to output files
 
-##Built With
+## Built With
 - Python 3
 - Tkinter (GUI)
 - pandas (Data analysis)
 - matplotlib (Graphs)
 
-##Sample Files
+## Sample Files
 
 Use the test CSVs in the assets/ folder:
 -sample_cpu_log.csv
 -sample_login_log.csv
 
-##To Run This Tool
+## To Run This Tool
 
 1.Install the required packages:
+   
    ```bash
    pip install -r requirements.txt
