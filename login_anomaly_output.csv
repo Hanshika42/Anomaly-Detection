@@ -1,0 +1,9 @@
+timestamp,username,status,failed,fail_streak,is_anomaly
+2025-07-01 10:00:00,admin,success,False,0,False
+2025-07-01 10:01:00,admin,failure,True,1,False
+2025-07-01 10:02:00,admin,failure,True,2,False
+2025-07-01 10:03:00,admin,failure,True,3,True
+2025-07-01 10:04:00,admin,success,False,0,False
+2025-07-01 10:05:00,guest,failure,True,1,False
+2025-07-01 10:06:00,guest,failure,True,2,False
+2025-07-01 10:07:00,guest,success,False,0,False

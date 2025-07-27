@@ -1,0 +1,8 @@
+timestamp,cpu_usage,is_anomaly,alert_level
+2025-07-01 12:00:00,45,False,Normal
+2025-07-01 12:01:00,87,False,Normal
+2025-07-01 12:02:00,91,True,Warning
+2025-07-01 12:03:00,65,False,Normal
+2025-07-01 12:04:00,94,True,Warning
+2025-07-01 12:05:00,70,False,Normal
+2025-07-01 12:06:00,99,True,Critical
