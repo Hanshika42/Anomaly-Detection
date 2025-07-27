@@ -23,12 +23,12 @@ A simple GUI-based Python tool to detect CPU usage spikes and suspicious login b
 ## Sample Files
 
 Use the test CSVs in the assets/ folder:
--sample_cpu_log.csv
--sample_login_log.csv
+- 'sample_cpu_log.csv'
+- 'sample_login_log.csv'
 
 ## To Run This Tool
 
-1.Install the required packages:
+1. Install the required packages:
    
    ```bash
    pip install -r requirements.txt
